@@ -1,6 +1,6 @@
 # 🧠 Escuta.AI
 
-Chatbot de escuta empática com integração à API Gemini, desenvolvido durante a Imersão de IA da Alura 2024.
+Chatbot de escuta empática com integração à API Gemini, desenvolvido durante a Imersão de IA da Alura 2025.
 
 ---
 
